@@ -4,8 +4,8 @@ export const business = {
   name: 'Cedar & Steam Cabins',
   town: 'Lava Hot Springs, Idaho',
   phone: '(208) 555-0142',
-  email: 'stay@cedarandsteamcabins.com',
-  address: '120 Pine Hollow Ln, Lava Hot Springs, ID 83246',
+  email: 'stay@cedarandsteamcabins.example',
+  address: 'Pine Hollow Ln, Lava Hot Springs, ID',
   checkIn: '4:00 PM',
   checkOut: '11:00 AM',
 }
