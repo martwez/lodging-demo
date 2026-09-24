@@ -87,7 +87,7 @@ export const explore = [
   { image: 'soak', title: 'Soak the hot pools', text: 'Mineral pools from 102 to 112 degrees, open year round. A five minute walk from every cabin.' },
   { image: 'tubing', title: 'Float the river', text: 'Summer tubing on the Portneuf runs right through town. Rent a tube or bring your own, we have storage.' },
   { image: 'valley', title: 'Hike and bike', text: 'Trails climb straight out of town into the hills with big views over the valley.' },
-  { image: 'bonfire', title: 'Slow evenings', text: 'Every cabin has a fire pit and a stack of firewood waiting. S’mores kit included.' },
+  { image: 'smores', title: 'Slow evenings', text: 'Every cabin has a fire pit and a stack of firewood waiting. S’mores kit included.' },
 ]
 
 export const reviews = [
@@ -105,5 +105,5 @@ export const faqs = [
 
 export const photoCredits = [
   'Jonathan Adams', 'Clay Banks', 'Andrea Davis', 'Mike Petrucci', 'Roger Starnes Sr',
-  'Cole Ankney', 'Hans', 'Joshua Sortino', 'Brooke Balentine', 'Alex Moliski', 'Troy Olson',
+  'Cole Ankney', 'Hans', 'Joshua Sortino', 'Brooke Balentine', 'Alex Moliski', 'Leon Contreras',
 ]
